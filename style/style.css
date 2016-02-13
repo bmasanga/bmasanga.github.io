@@ -1,0 +1,40 @@
+body {
+	text-align: center;
+	/*background-image: url(http://jojud265nia2bj9sy4ah9b61.wpengine.netdna-cdn.com/wp-content/uploads/2015/07/zoolander2-1600x900-c-default.jpg);*/
+}
+
+nav {
+	background-color: gray;
+	height: 50px;
+}
+
+li {
+	display:inline-block;
+	margin: 10px;
+}
+
+ul {
+	list-style-position:  inside;
+}
+
+#first {
+	color: red;
+}
+
+.others {
+	text-decoration: underline;
+	clear: both;
+}
+
+.picture {
+	border-radius: 50%;
+	border: 1px solid black;
+}
+
+#left-div {
+	float: left;
+}
+
+#right-div {
+	float: right;
+}
